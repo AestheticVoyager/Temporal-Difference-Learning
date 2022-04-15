@@ -82,5 +82,5 @@ Two such efforts, by Fredrik Dahl and Olivier Egger, have led to the creation of
 
 # Sources
 - [TD-Gammon Paper by Gerald Tesauro](https://bkgm.com/articles/tesauro/tdl.html)
-- <https://en.wikipedia.org/wiki/TD-Gammon>
-- <http://modelai.gettysburg.edu/2013/tdgammon/pa4.pdf>
+- [TD-Gammon Wiki](https://en.wikipedia.org/wiki/TD-Gammon)
+- [TD-Gammon Revisited](http://modelai.gettysburg.edu/2013/tdgammon/pa4.pdf)
