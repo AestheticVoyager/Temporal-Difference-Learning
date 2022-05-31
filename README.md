@@ -5,7 +5,7 @@ Provided with an expected output, backpropagation takes the error and applies it
 
 
 But for backpropagation to work in a game like backgammon, after every move the network would require the “correct” decision and use that knowledge to train the network. 
-As that informa-tion is not available, Tesauro used temporal difference methods. 
+As that information is not available, Tesauro used temporal difference methods. 
 TD methods are somewhat like backpropagation over time to assign credit or blame of some reward to a previous state.
 More specifically, when the network wins or loses a game, were all moves equally responsible for that win or loss? 
 Obviously not. 
@@ -79,6 +79,7 @@ This trend of human experts learning from the machine was significantly accelera
 
 Two such efforts, by Fredrik Dahl and Olivier Egger, have led to the creation of commercial PC programs called Jellyfish and Snowie, respectively. 
 
+TD-Gammon's excellent positional play was undercut by occasional poor endgame play. The endgame requires a more analytical approach, sometimes with extensive lookahead. TD-Gammon's limitation to two-ply lookahead put a ceiling on what it could achieve in this part of the game. TD-Gammon's strengths and weaknesses were the opposite of symbolic artificial intelligence programs and most computer software in general: it was good at matters that require an intuitive "feel" but bad at systematic analysis.
 
 # Sources
 - [TD-Gammon Paper by Gerald Tesauro](https://bkgm.com/articles/tesauro/tdl.html)
