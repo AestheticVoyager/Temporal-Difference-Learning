@@ -67,10 +67,6 @@ TD-Gammon found that the more conservative play of 24-23 was superior.
 Tournament players began experimenting with TD-Gammon's move, and found success.
 Within a few years, slotting had disappeared from tournament play, though in 2006 it made a reappearance for 2-1.
 
-TD-Gammon's excellent positional play was undercut by occasional poor endgame play.
-The endgame requires a more analytical approach, sometimes with extensive lookahead.
-TD-Gammon's limitation to two-ply lookahead put a ceiling on what it could achieve in this part of the game.
-
 As a result, humans began carefully studying the program’s evaluations and rollouts and began to change their concepts and strategies.
 
 After analysis of thousands of positions, new heuristic principles were formulated which accounted for the new data.
